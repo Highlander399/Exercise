@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+    
+}
+
+/* .navbar .nav-item{
+   
+} */
+
+.carousel .carousel-item img{
+    height: 50%;
+    object-fit: cover;
+    
+}
+
+
+.card img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
